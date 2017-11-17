@@ -1,0 +1,15 @@
+{
+  "name": "test-log",
+  "version": "0.0.1",
+  "description": "logs process arg",
+  "bin": {
+    "test-log": "./bin/test-log"
+  },
+  "main": "./lib/index.js",
+  "engines": {
+    "node": ">=4.1.2"
+  },
+  "keywords": [
+    "cli"
+  ]
+}

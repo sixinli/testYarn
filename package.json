@@ -1,0 +1,11 @@
+{
+  "name": "test-yarn",
+  "version": "4.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "test": "./node_modules/test-log/bin/test-log folder1/src/**/*.txt"
+  },
+  "dependencies": {
+    "test-log": "file:test_packages/test-log"
+  }
+}
